@@ -1,0 +1,12 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: garamond, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-size: 30px;
+  font-style: regular;
+  color: black;
+}
